@@ -22,7 +22,7 @@ namespace credits {
                                " by Alexandre Rouma (ON5RYZ) and contributors. It is not an official SDR++ release.");
         ImGui::TextUnformatted("License: GNU General Public License v3.0 (GPL-3.0-or-later). No warranty.");
         ImGui::TextUnformatted("Source code of this build:");
-        ImGui::BulletText("App: github.com/z2labs/SDRPlusPlus (branch esp-sdr), based on github.com/AlexandreRouma/SDRPlusPlus");
+        ImGui::BulletText("App: github.com/z2labs/Z2-SDR (branch esp-sdr), based on github.com/AlexandreRouma/SDRPlusPlus");
         ImGui::BulletText("ESP32-S3 source module: github.com/z2labs/sdrpp-esp-sdr-source");
         ImGui::BulletText("Bundled ESP32-S3 firmware: github.com/zodoczi/esp-sdr (branch iq-smooth), based on ESP-SDR by "
                           "Florian Euchner / ESPARGOS (GPL-3.0-or-later), with ESP-IDF and ESP-DSP (Apache-2.0)");
